@@ -1,3 +1,3 @@
-# K-LM-Knowledge-Agumenting-in-Langauge-Models
+# Outputs
 
-This respositry cotains the source codes of our work. 
+All files in this directory are excluded from Git.
