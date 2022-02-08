@@ -14,4 +14,9 @@ argparse == 1.1
 ```
 
 
+## Knowledge Graphs
+
+```
 The Artificial Intelligence Knowledge Graph (AI-KG) dump can be downloded in \textit{.ttl} format from https://scholkg.kmi.open.ac.uk/
+
+```
