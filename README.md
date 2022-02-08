@@ -15,7 +15,7 @@ argparse == 1.1
 
 
 ## Knowledge Graphs
-The Artificial Intelligence Knowledge Graph (AI-KG) dump can be downloded in \textit{.ttl} format:
+The Artificial Intelligence Knowledge Graph (AI-KG) dump can be downloded in .ttl format from the link below:
 
 ```
 https://scholkg.kmi.open.ac.uk/
