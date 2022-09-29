@@ -20,3 +20,6 @@ The Artificial Intelligence Knowledge Graph (AI-KG) dump can be downloded in .tt
 ```
 https://scholkg.kmi.open.ac.uk/
 ```
+
+## Publication
+
