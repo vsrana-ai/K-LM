@@ -29,6 +29,8 @@ class KnowledgeGraph(object):
         self.useable_triples= Counter() 
         self.max_entities = max_entities 
         self.injected_knowledge = defaultdict(list) 
+        
+    #creating look up table
 
     def _create_lookup_table(self):
         lookup_table = {}
@@ -57,6 +59,8 @@ class KnowledgeGraph(object):
         lookup_table_items = list(dict_items)
         print("Printing Lookup Table ---",lookup_table_items[:3])
         return lookup_table
+   
+#Adding knowledge with using visible matrix
 
     def add_knowledge_with_vm(self, sent_batch, max_entities=config.MAX_ENTITIES, add_pad=True, max_length=128):
         split_sent_batch = [self.tokenizer.cut(sent) for sent in sent_batch]
